@@ -1,0 +1,10 @@
+{
+  "id": "trackables-plugin",
+  "name": "Trackables",
+  "version": "0.16.2",
+  "minAppVersion": "1.7.2",
+  "description": "Structured journaling trackables: schema-defined sections in period notes with editable tables, rollup and rolldown views.",
+  "author": "Mason",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
